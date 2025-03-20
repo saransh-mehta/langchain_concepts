@@ -74,4 +74,4 @@ jspm_packages/
 bower_components/
 
 # Specific files
-api_keys.py # Ignore api_keys.py in the root directory.
+api_keys_.py # Ignore api_keys.py in the root directory.
